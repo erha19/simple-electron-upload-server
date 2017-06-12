@@ -1,0 +1,5 @@
+file.crt
+private.pem
+node_modules
+.vscode
+releases
